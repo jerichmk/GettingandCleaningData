@@ -10,7 +10,7 @@ train_y <- read.table("train/y_train.txt")
 train_subj <- read.table("train/subject_train.txt")
 
 activitee <- read.table("activity_labels.txt")
-features <- read.table("features.txt",stringsAsFactors = FALSE)
+features <- read.table("features.txt")
 
 x <- rbind(test_x,train_x)
 y <- rbind(test_y,train_y)
