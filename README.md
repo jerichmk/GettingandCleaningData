@@ -21,7 +21,7 @@ Good luck!
 Packages used to run the program:
 1. dplyr
 
-Files attached:
+Files attached and how the script runs:
 1. CodeBook.md
 	This provides information and explanation on the data, variable, and the functions used to produce the final output.
 
